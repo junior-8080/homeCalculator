@@ -1,0 +1,18 @@
+.button {
+    padding: 20px;
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+    justify-items: center;
+    background-color: grey;
+    color: white;
+    outline: 1px solid lightgrey;
+    cursor: pointer;
+
+}
+.operator{
+    background-color: #fe9241;
+    color:white;
+}
